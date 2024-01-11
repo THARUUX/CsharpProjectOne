@@ -1,4 +1,4 @@
-Clone : `https://github.com/THARUUX/CsharpProgectOne.git`
+Clone : `https://github.com/THARUUX/CsharpProjectOne.git`
 
 Username : <pre>admin</pre>
 Password : <pre>admin123</pre>
