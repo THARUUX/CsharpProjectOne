@@ -1,0 +1,17 @@
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\bin\Debug\net7.0-windows\ProgectTwo.exe
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\bin\Debug\net7.0-windows\ProgectTwo.deps.json
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\bin\Debug\net7.0-windows\ProgectTwo.runtimeconfig.json
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\bin\Debug\net7.0-windows\ProgectTwo.dll
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\bin\Debug\net7.0-windows\ProgectTwo.pdb
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.LOGIN.resources
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.csproj.GenerateResource.cache
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.AssemblyInfoInputs.cache
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.AssemblyInfo.cs
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.csproj.CoreCompileInputs.cache
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.dll
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\refint\ProgectTwo.dll
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.pdb
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.genruntimeconfig.cache
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ref\ProgectTwo.dll
+C:\Users\THARUUX\source\repos\ProgectTwo\ProgectTwo\obj\Debug\net7.0-windows\ProgectTwo.DashBoard.resources
